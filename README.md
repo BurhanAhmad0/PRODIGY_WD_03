@@ -1,10 +1,6 @@
 # Tic-Tac-Toe Game 🎮
 
-This is a classic **Tic-Tac-Toe** game built with **React.js** and styled with **Tailwind CSS**. It features player turn tracking, win/draw detection, and a "New Game" button to reset the game. The game includes SVG icons for player moves (X and O), providing an enhanced visual experience.
-
-## Demo
-
-[Live Demo](#)
+This is a classic Tic-Tac-Toe game built with React.js and styled with Tailwind CSS. It features player turn tracking, win/draw detection, and a "New Game" button to reset the game. The game includes SVG icons for player moves (X and O), providing an enhanced visual experience.
 
 ## Features
 
@@ -25,8 +21,8 @@ This is a classic **Tic-Tac-Toe** game built with **React.js** and styled with *
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone git@github.com:BurhanAhmad0/PRODIGY_WD_03.git
+   cd PRODIGY_WD_03
    ```
 
 2. **Install dependencies**:
