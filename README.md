@@ -35,7 +35,7 @@ This is a classic Tic-Tac-Toe game built with React.js and styled with Tailwind 
    npm start
    ```
 
-4. Open your browser and go to `http://localhost:3000` to play the game!
+4. Open your browser and go to `http://localhost:5173` to play the game!
 
 ## Project Structure
 
